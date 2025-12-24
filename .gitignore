@@ -1,0 +1,23 @@
+# Object files
+*.o
+
+# Dependency files
+*.d
+
+# Executables
+mqjs
+example
+mqjs_stdlib
+example_stdlib
+dtoa_test
+libm_test
+rempio2_test
+
+# Generated headers
+mqjs_stdlib.h
+example_stdlib.h
+mquickjs_atom.h
+
+# Temporary files
+*~
+test_builtin.bin
